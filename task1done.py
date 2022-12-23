@@ -1,4 +1,4 @@
-#
+#Ти уже перевіряв
 # #Variant~1 use list
 # Eleks = ["Pavlo", "Bogdan", "Anton", "Dmytro", "Anna", "Alla", "Artem"]
 # Toshiba = ["Kasja", "Dasja", "Anton", "Alla", "Vasja", "Asja", "Artem"]

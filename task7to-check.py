@@ -1,3 +1,4 @@
+# Треба перевірити
 # there is a list of friends ["John", "Marta", "James", "Amanda", "Marianna"].
 # print to the console the names of each on a new line, right-aligned using
 # the string method and formatting via f string. Also, above the names,

@@ -1,3 +1,5 @@
+# Треба перевірити
+#
 # You have 2 lists of names friends = ["John", "Marta", "James"] and enamies =
 # ["John", "Johnatan", "Artur"]. Loop through the names of friends and write the
 # message f"{friend} we are the best friends" if the friend is not in the list of enemy names.

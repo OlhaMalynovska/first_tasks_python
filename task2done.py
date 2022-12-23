@@ -1,3 +1,12 @@
+
+# Ти уже перевіряв
+# You have 3 groups of people casino_blacklist, poker_blacklist, alcohol_blacklist.
+# Names of people in the format "John Dow" first and second name. Find those who
+# are on all blacklists.
+
+
+
+
 casino_blacklist = ["alla black", "anna white", "alla blue", "anna red", "alla red", "anna sydor", "anna pekar"]
 poker_blacklist = ["anna white", "alla black", "alla blue", "anna pekar", "aja red", "alla red"]
 alcohol_blacklist = ["anna white", "alla blue", "anna red", "anna black", "inna red", "anna pekar"]
